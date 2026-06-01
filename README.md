@@ -66,7 +66,9 @@ project/
 ├── notion_vit_logo.jpg
 ├── speaker1.jpg
 ├── speaker2.jpg
-└── speaker3.jpg
+├──speaker3.jpg
+└──SCREENSHOT_WEBSITE
+
 ```
 
 
