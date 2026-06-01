@@ -93,5 +93,5 @@ project/
 
 Vibhor Srivastava
 
-Built as a frontend recruitment task for the Notion Club.
+Built as a frontend recruitment task(OPTION 3) for the Notion Club.
 
