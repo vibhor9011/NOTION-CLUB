@@ -69,21 +69,6 @@ project/
 └── speaker3.jpg
 ```
 
-## How to Run
-
-1. Clone the repository
-
-```bash
-git clone <your-repository-link>
-```
-
-2. Open the project folder
-
-```bash
-cd notion-club-countdown-page
-```
-
-3. Open `index.html` in your browser.
 
 ## Key Highlights
 
